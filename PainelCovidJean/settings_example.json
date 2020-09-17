@@ -1,0 +1,7 @@
+{
+    "dbHost": "localhost",
+    "dbPort": 5432,
+    "dbName": "nome_do_banco",
+    "dbUsername": "usuario",
+    "dbPassword": "senha"
+}
